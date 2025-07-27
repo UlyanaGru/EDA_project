@@ -1,1 +1,1 @@
-# EDA_project
+# В этом проекте будет EDA по данным с Kaggle
